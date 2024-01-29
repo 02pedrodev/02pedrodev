@@ -1,4 +1,4 @@
-- - 👋 Olá, sou o @02pedrodev, um desenvolvedor de sistemas em busca de estágio.
+- 👋 Olá, sou o @02pedrodev, um desenvolvedor de sistemas em busca de estágio.
 
 - 😉 Estou interessado em desenvolver softwares que resolvam problemas reais e impactem positivamente a vida das pessoas. Tenho interesse nas áreas: Estagio de desenvolvimento web, Estágio como desenvolvedor front end, Estágio como desenvolvedor fullstack, Estágio como desenvolvedor back end.
 
